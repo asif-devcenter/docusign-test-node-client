@@ -1,6 +1,6 @@
 {
   "name": "docusign-test",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "DocuSign Node.js API client.",
   "license": "MIT",
   "main": "src/index.js",

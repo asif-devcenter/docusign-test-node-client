@@ -31,7 +31,7 @@
     * @type {Array.<String>}
     * @default {}
     */
-  var defaultHeaders = { "X-DocuSign-SDK": "Node", "Node-Ver": process.version, "User-Agent": `Swagger-Codegen/1.1.0/1.0.0/node/${process.version}` };
+  var defaultHeaders = { "X-DocuSign-SDK": "Node", "Node-Ver": process.version, "User-Agent": `Swagger-Codegen/1.1.0/1.0.7/node/${process.version}` };
 
   var SCOPE_SIGNATURE = "signature";
   var SCOPE_EXTENDED = "extended";
